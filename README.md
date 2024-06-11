@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a game
+- 🔭 I’m currently working on a database
 - 🌱 I’m currently learning coding mobile programs
 - 👯 I’m looking to collaborate on new projects
 
