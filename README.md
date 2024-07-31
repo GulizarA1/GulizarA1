@@ -28,9 +28,7 @@ Here are a few projects I'm currently working on or have contributed to:
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 How to reach me
-- Email: your.email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-
+- Email: altintasgulizar2@gmail.com
 ---
 
 ⭐️ From [GulizarA1](https://github.com/GulizarA1)
