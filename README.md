@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a database
-- 🌱 I’m currently learning coding mobile programs
+- 🌱 I’m currently learning coding artificial intelligence
 - 👯 I’m looking to collaborate on new projects
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=square&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
