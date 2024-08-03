@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm excited to share my projects and journey with 
 ### Projects
 Here are a few projects I'm currently working on or have contributed to:
 
-- [Project 1]([https://github.com/GulizarA1/Intro-to-Astro2024](https://github.com/GulizarA1/Intro-to-Astro2024)): A brief description of Project 1.
-- [Project 2]([https://github.com/GulizarA1/Python_Project](https://github.com/GulizarA1/Python_Project)): A brief description of Project 2.
-- [Project 3]([https://github.com/developerburakgul/livelife](https://github.com/developerburakgul/livelife)): A brief description of Project 3.
+- [Project 1](https://github.com/GulizarA1/Intro-to-Astro2024): A brief description of Project 1.
+- [Project 2](https://github.com/GulizarA1/Python_Project): A brief description of Project 2.
+- [Project 3](https://github.com/developerburakgul/livelife): A brief description of Project 3.
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
