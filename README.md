@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and journey with 
 ### Connect with Me
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GulizarA1)](https://github.com/GulizarA1) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yourusername)](https://instagram.com/yourusername) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourusername)](www.linkedin.com/in/gülizaraltıntaş)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourusername)]([www.linkedin.com/in/gülizaraltıntaş](https://www.linkedin.com/in/g%C3%BClizaralt%C4%B1nta%C5%9F/))
 
 ### GitHub Stats
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=GulizarA1&show_icons=true&theme=highcontrast) 
