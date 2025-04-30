@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm excited to share my projects and journey with 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GulizarA1&show_icons=true&hide_title=true&count_private=true&theme=highcontrast)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulizarA1&layout=compact&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GulizarA1&show_icons=true&hide_title=true&count_private=true&theme=gruvbox&border_radius=8&hide=prs)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulizarA1&layout=compact&theme=gruvbox&border_radius=8)
 
 ---
 
