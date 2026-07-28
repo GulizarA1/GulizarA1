@@ -35,11 +35,9 @@ Welcome to my GitHub profile! I am a Computer Engineering student specializing i
 ---
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GulizarA1&show_icons=true&hide_title=true&count_private=true&theme=gruvbox&border_radius=8&hide=prs)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GulizarA1&show_icons=true&hide_title=true&count_private=true&theme=gruvbox&border_radius=8&hide=prs" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulizarA1&layout=compact&theme=gruvbox&border_radius=8" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulizarA1&layout=compact&theme=gruvbox&border_radius=8)
 
 ---
 
