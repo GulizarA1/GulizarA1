@@ -27,8 +27,6 @@ Welcome to my GitHub profile! I am a Computer Engineering student specializing i
 
 - [**IoT Intrusion Detection with GNNs**](https://github.com/GulizarA1/iot-intrusion-detection-gnn)
   *My TÜBİTAK 2209-A research project utilizing Graph Neural Networks and ensemble models to detect cyber attacks in the ToN_IoT dataset.*
-- [**Python Project**](https://github.com/GulizarA1/Python_Project)
-  *A robust Python-based application pipeline for data analysis and processing.*
 - [**LiveLife**](https://github.com/developerburakgul/livelife)
   *Collaborative development of a comprehensive self-improvement and life-tracking application.*
 - [**Intro to Astro 2024**](https://github.com/GulizarA1/Intro-to-Astro2024)
